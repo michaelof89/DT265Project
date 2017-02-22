@@ -1,0 +1,58 @@
+Project Meeting 2: Concepts in advance.
+
+Formulate which databases/sql info that would be needed
+Buy myself more time by doing that
+Write down what i want to be done - connect through webpage and app - ways to add more complexity or scale down.  So an app interface for example can be reduced down later.
+Agile - planning ahead for unforseen circumstances
+Adaptive. Having requirements and knowing what you want to achieve
+3 layer:
+Minimum requirements
+Optional requirements
+Extra requirements
+Work around deadlines of other classes/modules. More submitted some weeks, some less.
+Document decisions en route - what you did and why? Because there will be a presentation at the end.
+
+Code Maintenance
+Use source3/github for maintaining code over time - bitbucket has unlimited private access. Set up a new. 
+
+Added functionality
+Feeling filled - more filling meals as a search function
+Myfitnesspal style of calorie counting - NHS BMI calculator kind of thing etc., abililty to tick items which were eating that day - pie chart like myfitnesspal, compare with the other meals that have been eaten that day.
+Exclusionary search - filters to NOT contain nuts etc, allergies, lower sugar/more sugar for diebetes
+Profile creation for the above being involved.
+Advanced and basic search features
+Maybe a recommended meals kind of thing? If someone likes specific things, remembering past searches etc.
+Ability to trawl websites for specific information, specific formatting
+Decide an appropriate priority list for each sprint.
+Tasks can be investigating specific things - take a day/or more, look at something specifically interesting.
+
+Hosting
+Amazonaws is an option for image hosting/hosting in general, database stuff.
+Can be 1 year for free
+
+Use of existing databases
+Look for a recommendation/association database for cooking. “Recommenders system” in google, check it with cooking, recipes etc. Very popular in machine learning atm
+
+Software which will be used
+Java runtime environment
+Android studio
+SQLite
+
+Things for the next few weeks
+Focus on the minimum requirements, optional requirements and extra requirements.
+Set up github new project. Put in information/pictures/typing/notes from this week
+Search for the recommendation/association database (recommenders system in google). Check if there are open API’s which use this kind of things.
+Look for premade backend login systems - or examine what is required to make my own. Good thing to show that i know how to program these, adds complexity to the project.
+List out all the programs etc. Which I will need for the project.
+Check with lecturers if any of the information/systems being spoken about here will come up in future lectures. This can be expanded upon once the information from part (1) is sorted.
+Anything about association databases? Information trawling to compose my own database? Using programs to search websites which have a specific format, to obtain recipe information, appropriately assigning these recipes to a database and making the database searchable.
+Check if amazonaws is still an option.
+Check on webcourses for the interim project
+Establish which referencing tool to use for Harvard referencing, as im currently familiar with APA only.
+Check up zotero. Referencing tool/plugin.
+
+For Future weeks
+Nothing set in stone yet - can decide what I am most interested in.
+Make prototypes/paper prototypes for the website and app. Multiple pages - The advanced search filter, the calorie counter, the bmi calculator, profile signin, profile page?
+Check past papers from DIT.ie/library to see what is expected/required. Layout, extent of work etc.
+Figure out how much time research/investigation or completing each component will take. Make accurate estimations, not trying to fit into the project timeframe - that way things can be cut or added accordingly.
